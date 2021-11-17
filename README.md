@@ -3,7 +3,7 @@
 #### - 👯 I’m looking to collaborate on all kinds of Data Projects (Python, R, SQL)
 #### - 🤔 I’m looking for help with improving my skills in Software Engineering
 #### - 💬 Ask me about Machine Learning, Deep Learning, Reinforcement Learning, Web Applications, NLP, Computer Vision, DataViz
-#### - 📫 How to reach me: On Linkedin 
+#### - 📫 How to reach me: emmanuel.bonnet.lim@gmail.com 
 #### - ⚡ Fun fact: My Cat loves making mess with my computer
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Manu87DS&show_icons=true&theme=radical)
