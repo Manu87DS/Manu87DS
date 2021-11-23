@@ -1,4 +1,4 @@
-#### - 🔭 I’m currently working as Innovation Project Manager & Data Analyst.
+#### - 🔭 I’m currently working as Innovation Project Manager & Data Scientist / Analyst.
 ####      In parallel & as Passion activity I invest a lot of free time inside several Data Science Projects 
 #### - 🌱 I’m currently learning MLOPs and AWS Cloud Computing
 #### - 👯 I’m looking to collaborate on all kinds of Data Projects, from data exploration to algorithms industrialization (Python, R, SQL)
