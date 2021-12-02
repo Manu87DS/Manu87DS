@@ -1,6 +1,6 @@
 #### - 🔭 I’m currently working as Innovation Project Manager & Data Scientist / Analyst.
 ####      In parallel & as Passion activity I invest a lot of free time inside several Data Science TECH Projects 
-#### - 🌱 I’m currently learning MLOPs and AWS Cloud Computing
+#### - 💥 I’m currently learning MLOPs and AWS Cloud Computing
 #### - 👯 I’m looking to collaborate on all kinds of Data Projects, from data exploration to algorithms industrialization (Python, R, SQL)
 #### - 🤔 I’m looking for help with improving my skills in Software Engineering
 #### - 💬 Ask me about Machine Learning, Deep Learning, Reinforcement Learning, Web Applications, NLP, Computer Vision, DataViz
