@@ -1,6 +1,5 @@
-#### - 🔭 I’m currently working as Innovation Project Manager & Data Scientist / Analyst.
-####      In parallel & as Passion activity I invest a lot of free time inside several Data Science TECH Projects 
-#### - 💥 I’m currently learning MLOPs while doing small projects in the area
+#### - 🔭 I’m currently working as Data Scientist Consultant
+####    💥  In parallel & as Passion activity I invest a lot of free time inside several Data Engineering TECH Projects 
 #### - 🤝 I’m looking to collaborate on all kinds of Data Projects, from data exploration to algorithms industrialization (Python, R, SQL)
 #### - 🤔 I’m looking for help for continuous improvement of my skills in Software Engineering
 #### - 💬 Ask me about Machine Learning, Deep Learning, Reinforcement Learning, Web Applications, NLP, Computer Vision, DataViz
