@@ -1,3 +1,5 @@
+### Welcome! 
+
 #### - 🔭 I’m currently working as Data Scientist Consultant
 #### - 🤝 I’m looking to collaborate on all kinds of Data Projects, from data exploration to algorithms industrialization (Python, R, SQL)
 #### - 🤔 I’m looking for help for continuous improvement of my skills in Software Engineering
