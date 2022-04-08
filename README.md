@@ -1,4 +1,7 @@
 ### Welcome! 
+Python Client for Cloud AutoML API
+==================================
+|ga| |pypi| |versions| 
 #### - 🔭 I’m currently working as Data Scientist having a robust background in innovation & data analysis
 #### - 🤝 I’m looking to collaborate on all kinds of Data Projects, from data exploration to algorithms industrialization (Python, R, SQL)
 #### - 🤔 I’m looking for help for continuous improvement of my skills in DevOps & Data Engineering
