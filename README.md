@@ -1,7 +1,7 @@
 ### Welcome! 
 
 
-115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+!115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 #### - 🔭 I’m currently working as Data Scientist having a robust background in Innovation & Data Analysis
 #### - 🤝 I’m looking to collaborate on all kinds of Data Projects (Python, R, SQL, Go), from data exploration to algorithms industrialization 
 #### - 🤔 I’m looking for continuous improvement of my skills in DevOps & Data Engineering
