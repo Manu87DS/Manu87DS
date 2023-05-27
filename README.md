@@ -1,9 +1,8 @@
 ### Welcome! 
 
-#### - 🔭 I’m currently working as Data Scientist having a robust background in R&D and Data Analysis
-#### - 🤝 I’m looking to collaborate on all kinds of AI Data & Cloud Projects from deep data exploration to algorithms industrialization/Deployment CI CD
-#### - 🤔 I’m looking for continuous improvement of my skills in DevOps & Cloud
-#### - 💬 Ask me about Machine Learning, Deep Learning, MLOPs, Data & Prompt ENgineering, Python Web Applications, NLP, Time Series, Computer Vision, DataViz
+#### - 🔭 I’m currently working as Senior Data Scientist oriented Business Efficiency , Operationnal Expertise & Growth Strategy
+#### - 🤝 I’m looking to collaborate on Tech transition Projects : Business & Operational 
+#### - 💬 Ask me about Dealin Business issue with Machine Learning & MLOPs
 #### - 📫 How to reach me: emmanuel.bonnet.lim@gmail.com 
 
 
